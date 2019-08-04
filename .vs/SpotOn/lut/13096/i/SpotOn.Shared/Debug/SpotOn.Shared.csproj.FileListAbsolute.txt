@@ -1,0 +1,5 @@
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\b\SpotOn.Shared\bin\Debug\SpotOn.Shared.dll
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\i\SpotOn.Shared\Debug\SpotOn.Shared.csprojAssemblyReference.cache
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\i\SpotOn.Shared\Debug\SpotOn.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\i\SpotOn.Shared\Debug\SpotOn.Shared.csproj.CopyComplete
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\i\SpotOn.Shared\Debug\SpotOn.Shared.dll

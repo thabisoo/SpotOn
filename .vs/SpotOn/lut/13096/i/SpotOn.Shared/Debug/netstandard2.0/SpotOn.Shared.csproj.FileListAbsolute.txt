@@ -1,0 +1,8 @@
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\b\SpotOn.Shared\Debug\netstandard2.0\SpotOn.Shared.deps.json
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\b\SpotOn.Shared\Debug\netstandard2.0\SpotOn.Shared.dll
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\i\SpotOn.Shared\Debug\netstandard2.0\SpotOn.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\i\SpotOn.Shared\Debug\netstandard2.0\SpotOn.Shared.AssemblyInfoInputs.cache
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\i\SpotOn.Shared\Debug\netstandard2.0\SpotOn.Shared.AssemblyInfo.cs
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\i\SpotOn.Shared\Debug\netstandard2.0\SpotOn.Shared.csproj.CopyComplete
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\i\SpotOn.Shared\Debug\netstandard2.0\SpotOn.Shared.dll
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\i\SpotOn.Shared\Debug\netstandard2.0\SpotOn.Shared.csprojAssemblyReference.cache

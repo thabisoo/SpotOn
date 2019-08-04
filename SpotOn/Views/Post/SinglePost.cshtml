@@ -1,0 +1,44 @@
+﻿@model SpotOn.ApplicationLogic.ViewModels.Posts.PostViewModel
+
+<style>
+    #author {
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 20px;
+        color: #65bfc9;
+        margin-bottom: 5px;
+    }
+
+    #tag {
+        text-decoration: none;
+        font-size: 17px;
+        background-color: #dbdbdb;
+        padding: 0px 3px;
+        color: #4f4f4f;
+    }
+</style>
+
+<div class="row" style="margin-top: 5%;">
+    <div class="col-sm-3"></div>
+    <div class="col-sm-6">
+        <h1>@Model.Title </h1>
+        <div class="row">
+            <div class="col-sm-6"> @Model.Date </div>
+            <div class="col-sm-6"> 
+                <a id="author" class="float-right" href="user/@Model.Author.Id"> @Model.Author.Username </a> 
+            </div>
+            
+        </div>
+        @foreach(var tag in Model.Tags)
+        {
+            var t = tag.Substring(1);
+            <a id="tag" href="tag/@t">@tag</a>
+        }
+
+        <div>
+            @Html.Raw(Model.Body)
+        </div>
+        
+    </div>
+    <div class="col-sm-3"></div>
+</div>

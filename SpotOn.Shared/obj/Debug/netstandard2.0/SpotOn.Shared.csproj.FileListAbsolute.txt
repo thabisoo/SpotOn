@@ -1,0 +1,8 @@
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\SpotOn.Shared\bin\Debug\netstandard2.0\SpotOn.Shared.deps.json
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\SpotOn.Shared\bin\Debug\netstandard2.0\SpotOn.Shared.dll
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\SpotOn.Shared\obj\Debug\netstandard2.0\SpotOn.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\SpotOn.Shared\obj\Debug\netstandard2.0\SpotOn.Shared.AssemblyInfoInputs.cache
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\SpotOn.Shared\obj\Debug\netstandard2.0\SpotOn.Shared.AssemblyInfo.cs
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\SpotOn.Shared\bin\Debug\netstandard2.0\SpotOn.Shared.pdb
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\SpotOn.Shared\obj\Debug\netstandard2.0\SpotOn.Shared.dll
+C:\Users\Thabiso Motsoko\source\repos\SpotOn\SpotOn.Shared\obj\Debug\netstandard2.0\SpotOn.Shared.pdb
