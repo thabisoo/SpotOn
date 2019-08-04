@@ -6440,11 +6440,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.UnitTests\\SpotOn.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.UnitTests\\SpotOn.UnitTests.csproj",
       "projectName": "SpotOn.UnitTests",
-      "projectPath": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.UnitTests\\SpotOn.UnitTests.csproj",
+      "projectPath": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.UnitTests\\SpotOn.UnitTests.csproj",
       "packagesPath": "C:\\Users\\Thabiso Motsoko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6465,8 +6465,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.ApplicationLogic\\SpotOn.ApplicationLogic.csproj": {
-              "projectPath": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.ApplicationLogic\\SpotOn.ApplicationLogic.csproj"
+            "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.ApplicationLogic\\SpotOn.ApplicationLogic.csproj": {
+              "projectPath": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.ApplicationLogic\\SpotOn.ApplicationLogic.csproj"
             }
           }
         }

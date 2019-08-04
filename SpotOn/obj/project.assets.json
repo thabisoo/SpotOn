@@ -13247,11 +13247,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn\\SpotOn.csproj",
+      "projectUniqueName": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn\\SpotOn.csproj",
       "projectName": "SpotOn",
-      "projectPath": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn\\SpotOn.csproj",
+      "projectPath": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn\\SpotOn.csproj",
       "packagesPath": "C:\\Users\\Thabiso Motsoko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn\\obj\\",
+      "outputPath": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13272,11 +13272,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.ApplicationLogic\\SpotOn.ApplicationLogic.csproj": {
-              "projectPath": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.ApplicationLogic\\SpotOn.ApplicationLogic.csproj"
+            "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.ApplicationLogic\\SpotOn.ApplicationLogic.csproj": {
+              "projectPath": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.ApplicationLogic\\SpotOn.ApplicationLogic.csproj"
             },
-            "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.Data\\SpotOn.Data.csproj": {
-              "projectPath": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.Data\\SpotOn.Data.csproj"
+            "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.Data\\SpotOn.Data.csproj": {
+              "projectPath": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.Data\\SpotOn.Data.csproj"
             }
           }
         }

@@ -10,3 +10,15 @@ C:\Users\Thabiso Motsoko\source\repos\SpotOn\SpotOn.Data\bin\Debug\netstandard2.
 C:\Users\Thabiso Motsoko\source\repos\SpotOn\SpotOn.Data\obj\Debug\netstandard2.0\SpotOn.Data.csproj.CopyComplete
 C:\Users\Thabiso Motsoko\source\repos\SpotOn\SpotOn.Data\obj\Debug\netstandard2.0\SpotOn.Data.dll
 C:\Users\Thabiso Motsoko\source\repos\SpotOn\SpotOn.Data\obj\Debug\netstandard2.0\SpotOn.Data.pdb
+C:\Users\Thabiso Motsoko\Desktop\SpotOn\SpotOn.Data\bin\Debug\netstandard2.0\SpotOn.Data.deps.json
+C:\Users\Thabiso Motsoko\Desktop\SpotOn\SpotOn.Data\bin\Debug\netstandard2.0\SpotOn.Data.dll
+C:\Users\Thabiso Motsoko\Desktop\SpotOn\SpotOn.Data\bin\Debug\netstandard2.0\SpotOn.Data.pdb
+C:\Users\Thabiso Motsoko\Desktop\SpotOn\SpotOn.Data\bin\Debug\netstandard2.0\SpotOn.Domain.dll
+C:\Users\Thabiso Motsoko\Desktop\SpotOn\SpotOn.Data\bin\Debug\netstandard2.0\SpotOn.Domain.pdb
+C:\Users\Thabiso Motsoko\Desktop\SpotOn\SpotOn.Data\obj\Debug\netstandard2.0\SpotOn.Data.csprojAssemblyReference.cache
+C:\Users\Thabiso Motsoko\Desktop\SpotOn\SpotOn.Data\obj\Debug\netstandard2.0\SpotOn.Data.csproj.CoreCompileInputs.cache
+C:\Users\Thabiso Motsoko\Desktop\SpotOn\SpotOn.Data\obj\Debug\netstandard2.0\SpotOn.Data.AssemblyInfoInputs.cache
+C:\Users\Thabiso Motsoko\Desktop\SpotOn\SpotOn.Data\obj\Debug\netstandard2.0\SpotOn.Data.AssemblyInfo.cs
+C:\Users\Thabiso Motsoko\Desktop\SpotOn\SpotOn.Data\obj\Debug\netstandard2.0\SpotOn.Data.csproj.CopyComplete
+C:\Users\Thabiso Motsoko\Desktop\SpotOn\SpotOn.Data\obj\Debug\netstandard2.0\SpotOn.Data.dll
+C:\Users\Thabiso Motsoko\Desktop\SpotOn\SpotOn.Data\obj\Debug\netstandard2.0\SpotOn.Data.pdb

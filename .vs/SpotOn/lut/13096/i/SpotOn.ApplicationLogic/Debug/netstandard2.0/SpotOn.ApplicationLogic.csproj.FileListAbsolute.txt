@@ -1,7 +1,0 @@
-C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\b\SpotOn.ApplicationLogic\Debug\netstandard2.0\SpotOn.ApplicationLogic.deps.json
-C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\b\SpotOn.ApplicationLogic\Debug\netstandard2.0\SpotOn.ApplicationLogic.dll
-C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\i\SpotOn.ApplicationLogic\Debug\netstandard2.0\SpotOn.ApplicationLogic.csproj.CoreCompileInputs.cache
-C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\i\SpotOn.ApplicationLogic\Debug\netstandard2.0\SpotOn.ApplicationLogic.AssemblyInfoInputs.cache
-C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\i\SpotOn.ApplicationLogic\Debug\netstandard2.0\SpotOn.ApplicationLogic.AssemblyInfo.cs
-C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\i\SpotOn.ApplicationLogic\Debug\netstandard2.0\SpotOn.ApplicationLogic.csproj.CopyComplete
-C:\Users\Thabiso Motsoko\source\repos\SpotOn\.vs\SpotOn\lut\0\i\SpotOn.ApplicationLogic\Debug\netstandard2.0\SpotOn.ApplicationLogic.dll

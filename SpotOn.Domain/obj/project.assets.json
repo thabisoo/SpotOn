@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.Domain\\SpotOn.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.Domain\\SpotOn.Domain.csproj",
       "projectName": "SpotOn.Domain",
-      "projectPath": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.Domain\\SpotOn.Domain.csproj",
+      "projectPath": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.Domain\\SpotOn.Domain.csproj",
       "packagesPath": "C:\\Users\\Thabiso Motsoko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

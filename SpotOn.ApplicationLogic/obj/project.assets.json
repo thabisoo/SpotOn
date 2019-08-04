@@ -946,11 +946,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.ApplicationLogic\\SpotOn.ApplicationLogic.csproj",
+      "projectUniqueName": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.ApplicationLogic\\SpotOn.ApplicationLogic.csproj",
       "projectName": "SpotOn.ApplicationLogic",
-      "projectPath": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.ApplicationLogic\\SpotOn.ApplicationLogic.csproj",
+      "projectPath": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.ApplicationLogic\\SpotOn.ApplicationLogic.csproj",
       "packagesPath": "C:\\Users\\Thabiso Motsoko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.ApplicationLogic\\obj\\",
+      "outputPath": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.ApplicationLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -971,11 +971,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.Domain\\SpotOn.Domain.csproj": {
-              "projectPath": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.Domain\\SpotOn.Domain.csproj"
+            "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.Domain\\SpotOn.Domain.csproj": {
+              "projectPath": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.Domain\\SpotOn.Domain.csproj"
             },
-            "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.Shared\\SpotOn.Shared.csproj": {
-              "projectPath": "C:\\Users\\Thabiso Motsoko\\source\\repos\\SpotOn\\SpotOn.Shared\\SpotOn.Shared.csproj"
+            "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.Shared\\SpotOn.Shared.csproj": {
+              "projectPath": "C:\\Users\\Thabiso Motsoko\\Desktop\\SpotOn\\SpotOn.Shared\\SpotOn.Shared.csproj"
             }
           }
         }
