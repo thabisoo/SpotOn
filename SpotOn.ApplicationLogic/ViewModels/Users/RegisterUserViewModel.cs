@@ -14,6 +14,7 @@ namespace SpotOn.ApplicationLogic.ViewModels.Users
         public string Email { get; set; }
 
         [Required(ErrorMessage = "Please enter a password")]
+        [MinLength(6, ErrorMessage = "Password too short")]
         public string Password { get; set; }
 
         [Compare("Password", ErrorMessage = "Passwords do not match")]
