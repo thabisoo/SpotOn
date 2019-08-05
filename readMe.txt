@@ -14,7 +14,7 @@
 
 8. Use john$sign as the password.
 
-9. If you are using Visual Studio 2017 and don't Dot Net Core SDK 2.2 Installed.
+9. If you are using Visual Studio 2017 and don't have Dot Net Core SDK 2.2 Installed.
 
 10. Please ensure you download it on https://dotnet.microsoft.com/download/dotnet-core/2.2
 
